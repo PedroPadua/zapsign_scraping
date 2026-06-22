@@ -69,6 +69,6 @@ Responsável pelo processamento e geração dos relatórios:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/zapsign-monitor-contratos.git
+git clone https://github.com/seu-usuario/zapsign_scraping.git
 cd zapsign-monitor-contratos
 ```
